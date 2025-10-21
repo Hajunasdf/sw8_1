@@ -2,8 +2,12 @@
 
 ## 📊 데이터셋 정보 - Student Exam Performance Dataset
 
+
+[📚 Student Stress & Performance Insights 🌟](https://www.kaggle.com/code/sulaniishara/student-stress-performance-insights)
+
 **데이터 출처:**  
 [Kaggle - Student Exam Score Dataset Analysis](https://www.kaggle.com/datasets/grandmaster07/student-exam-score-dataset-analysis)
+
 
 **데이터 개요:**  
 이 데이터셋은 학생들의 공부 습관과 배경이 시험 성적에 미치는 영향을 분석하기 위해 수집된 자료입니다.  
